@@ -108,6 +108,4 @@ Update Status + Response
 Student
 ```
 
-## 🎓 Academic Project
 
-Developed as a Web Technologies project using frontend and server-side technologies.
